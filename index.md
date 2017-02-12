@@ -1,1 +1,1 @@
-![Profile-pic](https://venkatvv.github.io/venkat_img.jpg)(.img-circle)
+![img-circle](https://venkatvv.github.io/venkat_img.jpg)
