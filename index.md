@@ -1,1 +1,1 @@
-adfqf
+My name is Brian, and I am currently a senior at the University of Michigan, Ann Arbor. I am majoring in Computer Science in the Literature, Science, and the Arts department
