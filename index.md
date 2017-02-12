@@ -8,3 +8,5 @@ My name is Venkat and I am currently a senior at the University of Michigan, Ann
 <br>
 [LinkedIn Profile](https://venkatvv.github.io/venkat_img.jpg)
 <br>
+
+## About Me
