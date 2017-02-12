@@ -1,1 +1,1 @@
-![img-circle](https://venkatvv.github.io/venkat_img.jpg) {: class = img-circle }
+![img-circle](https://venkatvv.github.io/venkat_img.jpg border-radius: 50%)
