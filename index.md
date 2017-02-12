@@ -1,2 +1,1 @@
-{:.img-circle}
-![testing](https://venkatvv.github.io/venkat_img.jpg)
+![img-circle](https://venkatvv.github.io/venkat_img.jpg)
