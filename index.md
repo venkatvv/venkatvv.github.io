@@ -1,10 +1,10 @@
 [My Resume](https://venkatvv.github.io/Venkat_Veerappan_Resume.pdf)
 
 
-[Developer Work](https://venkatvv.github.io/developer_work.md)
+[Developer Work](https://venkatvv.github.io/developer_work)
 
 
-[Developed Games](https://venkatvv.github.io/developed_games.md)
+[Developed Games](https://venkatvv.github.io/developed_games)
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/venkat-veerappan-065404137)
