@@ -18,9 +18,9 @@ I entered college without any prospective majors in mind. When I took my first c
 
 There are multiple areas in the field that I am interested in 
 They include: 
-* Game development
-* Mobile application development
-* Web development
-* Software development
-* Database systems/management etc.
+- Game development
+- Mobile application development
+- Web development
+- Software development
+- Database systems/management etc.
 
