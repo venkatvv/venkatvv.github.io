@@ -17,7 +17,7 @@ Ann Arbor, and I am currently finishing my Bachelor of Science in Computer Scien
 I entered college without any prospective majors in mind. When I took my first class in Computer Science I found a passion for the subject immediately. I was also really drawn in the by the range and diversity of jobs available in the field.  
 
 There are multiple areas in the field that I am interested in. <br>
-They include 
+They include:
 
 - Game development
 - Mobile application development
