@@ -1,4 +1,4 @@
-[My Resume](https://venkatvv.github.io/venkat_img.jpg)
+[My Resume](https://venkatvv.github.io/Venkat_Veerappan_Resume.pdf)
 
 
 [Developer Work](https://venkatvv.github.io/venkat_img.jpg)
@@ -11,13 +11,12 @@
 
 
 ## About Me
-Hello, my name is Venkat and I am a senior at the University of Michigan,
+My name is Venkat and I am a senior at the University of Michigan,
 Ann Arbor, and I am currently finishing my Bachelor of Science in Computer Science.
 
-I entered college without any prospective majors in mind. When I took my first class in Computer Science I found a passion for the subject immediately. I was also really drawn in the by the range and diversity of jobs available in the field.  
+I entered college without any prospective majors in mind. When I took my first class in Computer Science I found a passion for the subject immediately. I was also really drawn in the by the range and diversity of jobs available in the field and all their possible applications.  
 
-There are multiple areas in the field that I am interested in. <br>
-They include:
+There are multiple areas in the field that I am currently interested in. They include:
 
 - Game development
 - Mobile application development
