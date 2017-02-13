@@ -1,7 +1,7 @@
 [My Resume](https://venkatvv.github.io/Venkat_Veerappan_Resume.pdf)
 
 
-[Developer Work](https://venkatvv.github.io/developer_work)
+[Developer Work](https://github.com/venkatvv/venkatvv.github.io/blob/master/developed_games.md)
 
 
 [Developed Games](https://venkatvv.github.io/developed_games)
