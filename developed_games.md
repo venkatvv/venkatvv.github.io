@@ -12,4 +12,4 @@ The game also utilizes a “spotlight” type of vision. This vision can be obst
 We wanted to keep the game as simple as possible, and so the entire game can be played with the arrow keys/WASD movement. To maintain the player’s interest, a large variety of enemies were implemented, some of which are birds that can fly, sentry giraffes that can alert other enemies of your whereabouts, and moles that can teleport. The difficulty of the game gradually increases as the player clears more levels. 
 
 Below is a brief video of some Agent O'Hare gameplay:
-<iframe width="75%" height="410" src="https://www.youtube.com/embed/wzXzEg1Khlo" frameborder="0" allowfullscreen></iframe>
+<iframe width="60%" height="310" src="https://www.youtube.com/embed/wzXzEg1Khlo" frameborder="0" allowfullscreen></iframe>
