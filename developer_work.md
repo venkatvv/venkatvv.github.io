@@ -10,4 +10,8 @@ This presentation below provides a brief overview of my work for the University 
 
 # My Contributions and Experience 
 
-Comming into this job I had very little experience with java and very little experience dealing with APIs.
+Coming into this job I had very little experience in working on projects without any types of guidelines. I was given a list of requirements and a timeframe to complete the project and was not given any other advice on how to accomplish the task. 
+
+To start this project I first gathered information on all the technology services offered by the University of Michigan. From there my co-worker and I decided on a prototype design for the project. We created a small local environment to implement and test the viability of our design. We then implemented in on a larger scale with the University's servers and other resources available to us. 
+
+This taught me how to work resourcefully as a developer and the procedures and methods I should take before I start developing a project.
