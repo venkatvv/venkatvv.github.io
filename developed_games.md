@@ -20,10 +20,10 @@ Below is a brief video of some Agent O'Hare gameplay:
 
 # Gods and Mortals
 
-Gods and Mortals is an chaotic, assymetric four-player fighting game. This was our final project for our class (Intro to Game Development and Design). The four of us had to cooperate to create a fun, multiplayer game for the end-of-the-year showcase. More than 200 people attended the showcase to play our games!
-Below is our trailer created by Brian Ye
+Gods and Mortals is a chaotic, asymmetric four-player fighting game. This was our final project for our class (Intro to Game Development and Design). The four of us had to cooperate to create a fun, multiplayer game for the end-of-the-year showcase. More than 200 people attended the showcase to play our games!
+Below is our trailer created by Brian Ye for our game:
 <iframe width="55%" height="310" src="https://www.youtube.com/embed/hacX8FV89SI" frameborder="0" allowfullscreen></iframe>
 
-In the game, there are two human mortals trying to survive while killing each other. There is also a God, who’s aim is to save both of them, and a Devil, who is attemping to destroy both of them. Each role has access to their own unique spells in order to complete their goals. The result? A chaotic free-for-all side-scroller.
+In the game, there are two human mortals trying to survive while killing each other. There is also a God, whose aim is to save both of players, and a Devil, who is attempting to destroy both of players. Each role has access to their own unique spells in order to complete their goals. This results in a chaotic free-for-all type brawling game.
 Below is a brief gameplay video of Gods and Mortals created by Brian Ye
 <iframe width="55%" height="310" src="https://www.youtube.com/embed/dIxCFT917no" frameborder="0" allowfullscreen></iframe>
