@@ -13,7 +13,7 @@ We wanted to keep the game as simple as possible, and so the entire game can be 
 
 This game is currently available at for play at MichiGames Arcade, which hosts games created and designed by previous Michigan students and alumni. It is only available for play on the university campus. If you would like to play the game from your own computer please send an email to venkatv@umich.edu.
 
-[MichiGames Arcade](http://eecs.umich.edu/eecs/about/articles/2017/MichiGames-Arcade)
+[MichiGames Arcade](http://eecs.umich.edu/eecs/about/articles/2017/MichiGames-Arcade.html)
 
 Below is a brief video of some Agent O'Hare gameplay:
 <iframe width="55%" height="310" src="https://www.youtube.com/embed/wzXzEg1Khlo" frameborder="0" allowfullscreen></iframe>
