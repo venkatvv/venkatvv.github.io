@@ -11,9 +11,9 @@ The game also utilizes a “spotlight” type of vision. This vision can be obst
 
 We wanted to keep the game as simple as possible, and so the entire game can be played with the arrow keys/WASD movement. To maintain the player’s interest, a large variety of enemies were implemented, some of which are birds that can fly, sentry giraffes that can alert other enemies of your whereabouts, and moles that can teleport. The difficulty of the game gradually increases as the player clears more levels. 
 
-This game is currently available at for play at:
+This game is currently available at for play at MichiGames Arcade, which hosts games created and designed by previous Michigan students and alumni. It is only available for play on the university campus. If you would like to play the game from your own computer please send an email to venkatv@umich.edu.
+
 [MichiGames Arcade](http://eecs.umich.edu/eecs/about/articles/2017/MichiGames-Arcade)
-Which hosts games created and designed by previous Michigan students and alumni
 
 Below is a brief video of some Agent O'Hare gameplay:
 <iframe width="55%" height="310" src="https://www.youtube.com/embed/wzXzEg1Khlo" frameborder="0" allowfullscreen></iframe>
@@ -24,6 +24,6 @@ Gods and Mortals is a chaotic, asymmetric four-player fighting game. This was ou
 Below is the trailer for our game which was created by Brian Ye:
 <iframe width="55%" height="310" src="https://www.youtube.com/embed/hacX8FV89SI" frameborder="0" allowfullscreen></iframe>
 
-In the game, there are two mortals characters(the ninjas) trying to survive while killing each other. There is also a God, whose aim is to save both of mortals, and a Devil, who is attempting to destroy both of mortals. Each role has access to their own unique spells in order to complete their goals. This results in a chaotic free-for-all type brawling game.
+In the game, there are two mortals characters (the ninjas) trying to survive while killing each other. There is also a God, whose aim is to save both of mortals, and a Devil, who is attempting to destroy both of mortals. Each role has access to their own unique spells in order to complete their goals. This results in a chaotic free-for-all type brawling game.
 Below is a brief gameplay video of Gods and Mortals created by Brian Ye:
 <iframe width="55%" height="310" src="https://www.youtube.com/embed/dIxCFT917no" frameborder="0" allowfullscreen></iframe>
