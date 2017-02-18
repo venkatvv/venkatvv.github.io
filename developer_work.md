@@ -10,8 +10,8 @@ This presentation below provides a brief overview of my work for the University 
 
 # My Contributions and Experience 
 
-Coming into this job I had very little experience in working on projects without any types of guidelines. I was given a list of requirements and a timeframe to complete the project and was not given any other advice on how to accomplish the task. 
+Coming into this job I had very little experience in working on projects without any types of guidelines. I was given a list of requirements and a timeframe to complete the project and was not given any other advice on how to accomplish this task. 
 
 To start this project I first gathered information on all the technology services offered by the University of Michigan. From there my co-worker and I decided on a prototype design for the project. We created a small local environment to implement and test the viability of our design. We then implemented in on a larger scale with the University's servers and other resources available to us. 
 
-This taught me how to work resourcefully as a developer and the procedures and methods I should take before I start developing a project.
+This job taught me how to work resourcefully as a developer as well as teaching me the procedures and methods I should take before I start developing a project. I learned a lot from this job and it gave me a lot valuable experience in learning how to prototype, design, and implement software for unique tasks.
