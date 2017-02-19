@@ -3,7 +3,7 @@
 All games listed below were created by other developers and me. They were developed using the game engine Unity.
 
 # Agent O'Hare
-Where the Light Doesn’t Touch is a single-player puzzle game created by a team of four (including me) at Game Jam Winter 2017 competition at the University of Michigan. The Game Jam is an event in which programmers, artists, and designers group up into groups of three or four and create a game within 48 hours. Game Jam Winter 2017 was the biggest turnouts in the last 5 years and Agent O'Hare managed to win first place amidst heavy competition!
+Agent O'Hare is a single-player puzzle game created by a team of four (including me) at Game Jam Winter 2017 competition at the University of Michigan. The Game Jam is an event in which programmers, artists, and designers group up into groups of three or four and create a game within 48 hours. Game Jam Winter 2017 was the biggest turnouts in the last 5 years and Agent O'Hare managed to win first place amidst heavy competition!
 
 In the game, the protagonist must kill the lion king, who resides somewhere on every level. The movement of the game is tile-based, and it is also turn based. The enemies will only move after the player moves, if they have the ability to move/turn. 
 
