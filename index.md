@@ -29,7 +29,7 @@ There are multiple areas in the field that I am currently interested in. They in
 </script>
 
 <script>
-$(window).resize=function(){
+window.onresize=function(){
 	var x = $("#Profile_img").position();
 	console.log(x);
 	$("#overlay_img").css({top: x.top, left: x.left});
