@@ -29,7 +29,8 @@ There are multiple areas in the field that I am currently interested in. They in
 
 <script>
 window.onload=function(){
-	var x = $("img#Profile_img").position();
+	var x = $("#Profile_img").position();
 	$("#overlay_img").css({top: x.top, left: x.left});
+	console.log(x);
 };
 </script>
