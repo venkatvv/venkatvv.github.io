@@ -30,7 +30,7 @@ There are multiple areas in the field that I am currently interested in. They in
 
 <script>
 window.onload=function(){
-	var x = $("#Profile_img").css('opacity', '');
+	var x = $("#Profile_img").removeClass("project-tagline");
 	console.log(x);
 };
 </script>
