@@ -8,6 +8,7 @@
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/venkat-veerappan-065404137)
+
 <img id="overlay_img" src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;"/>
 
 ## About Me
@@ -29,8 +30,9 @@ There are multiple areas in the field that I am currently interested in. They in
 
 <script>
 window.onload=function(){
-	var x = $("#Profile_img").position();
-	$("#overlay_img").css({top: x.top, left: x.left});
+	var x = $("#Profile_img").css();
+	console.log(x);
+	$("img#overlay_img").css({top: x.top, left: x.left});
 	console.log(x);
 };
 </script>
