@@ -24,7 +24,12 @@ There are multiple areas in the field that I am currently interested in. They in
 - Software development
 - Database systems/management etc.
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js">
+</script>
+
+<script>
+window.onload=function(){
 	var x = ("#Profile_img").position();
 	$("#overlay_img").css({top: x.top, left: x.left});
+};
 </script>
