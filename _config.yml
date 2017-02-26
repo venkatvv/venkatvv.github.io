@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
 title: [Venkat Veerappan]
-description: <img src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;"/> <br> Software & Game Developer
+description: <img id="Profile_img" src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;"/> <br> Software & Game Developer

@@ -8,7 +8,7 @@
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/venkat-veerappan-065404137)
-
+<img id="overlay_img" src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;"/>
 
 ## About Me
 My name is Venkat and I am a senior at the University of Michigan,
@@ -23,3 +23,8 @@ There are multiple areas in the field that I am currently interested in. They in
 - Web development
 - Software development
 - Database systems/management etc.
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript">
+	var x = ("#Profile_img").position();
+	$("#overlay_img").css({top: x.top, left: x.left});
+</script>
