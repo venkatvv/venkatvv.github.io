@@ -9,7 +9,7 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/venkat-veerappan-065404137)
 
-<img id="overlay_img" src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;"/>
+<img id="overlay_img" src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;left:61.3125;right:;  position:absolute;"/>
 
 ## About Me
 My name is Venkat and I am a senior at the University of Michigan,
@@ -33,6 +33,6 @@ window.onload=function(){
 	var x = $("#Profile_img").position();
 	console.log(x);
 	$("#overlay_img").css({top: x.top, left: x.left});
-	console.log(x);
+	$("#overlay_img").insertAfter($("#main-content"));
 };
 </script>
