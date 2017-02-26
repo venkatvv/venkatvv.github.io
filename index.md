@@ -32,7 +32,7 @@ There are multiple areas in the field that I am currently interested in. They in
 window.onload=function(){
 	var x = $("#Profile_img").css();
 	console.log(x);
-	$("img#overlay_img").css({top: x.top, left: x.left});
+	$("#overlay_img").css({top: x.top, left: x.left});
 	console.log(x);
 };
 </script>
