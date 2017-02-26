@@ -29,10 +29,8 @@ There are multiple areas in the field that I am currently interested in. They in
 </script>
 
 <script>
-window.onresize=function(){
-	var x = $("#Profile_img").position();
+window.onload=function(){
+	var x = $("#Profile_img").css('opacity', '1.0');
 	console.log(x);
-	$("#overlay_img").css({top: x.top, left: x.left});
-	$("#overlay_img").insertAfter($("#main-content"));
 };
 </script>
