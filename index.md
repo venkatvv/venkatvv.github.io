@@ -30,7 +30,7 @@ There are multiple areas in the field that I am currently interested in. They in
 
 <script>
 window.onload=function(){
-	var x = $("#Profile_img").css();
+	var x = $("#Profile_img").position();
 	console.log(x);
 	$("#overlay_img").css({top: x.top, left: x.left});
 	console.log(x);
