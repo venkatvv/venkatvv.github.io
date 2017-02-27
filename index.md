@@ -23,14 +23,11 @@ There are multiple areas in the field that I am currently interested in. They in
 - Software development
 - Database systems/management etc.
 
-<img id="Profile_img" src="https://venkatvv.github.io/venkat_edited.jpg" alt="Profile" style="border-radius:50%; height:300px;"/>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js">
 </script>
 
 <script>
-
 window.onload=function(){
-	$("#Profile_img").insertAfter($("#project-name"));
+	$("#Profile_img").parent().css('opacity', '');
 };
 </script>
