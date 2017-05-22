@@ -2,7 +2,7 @@
 
 # Overview 
 
-I created a data pipeline for the Professor Z. Morley Mao over the summer of 2016. It was created by utilizing Apache Kafka (a distributed streaming platform) and Apache Hadoop (a framework that allows for the distributed processing of large data sets across clusters of computers). The data is then displayed visually through Grafana (a time series database) and shown in real-time.
+I created a data pipeline over the summer of 2016. It was created by utilizing Apache Kafka (a distributed streaming platform) and Apache Hadoop (a framework that allows for the distributed processing of large data sets across clusters of computers). The data is then displayed visually through Grafana (a time series database) and shown in real-time.
 
 This presentation below provides a brief overview of my work for the University of Michigan.
 
