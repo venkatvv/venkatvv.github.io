@@ -1,4 +1,4 @@
-[My Resume](https://venkatvv.github.io/Venkat_Veerappan_Resume.pdf)
+[My Resume] - Currently Employed, not looking for work.
 
 
 [Developer Work](https://venkatvv.github.io/developer_work)
